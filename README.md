@@ -5,3 +5,5 @@
 REFLECTION:
 
 This was a fun project to code. I got to make a funny Cookie Clicker copy and I got to learn the basics of MIT App Inventor. A challenge I had was trying to design the score counter.
+
+Sergey Dondokov
