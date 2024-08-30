@@ -1,12 +1,7 @@
-# CSE-MIT-AI-CookieSim
+![image](https://github.com/user-attachments/assets/b98ee7d4-84b6-4564-b40d-5e9df0092c1e)
+![image](https://github.com/user-attachments/assets/3eb41f79-6066-4ee4-aa29-39af92617ead)
+![image](https://github.com/user-attachments/assets/7e1fb31f-b5ae-47d5-b7c5-c51df710f2b8)
 
-In this repository you will be turning in your cookie clicker sim created on MIT app inventor
+REFLECTION:
 
-## What to include
-
-1. Your source file, this can be obtained by clicking on Projects / Export selected project to my computer![image](https://github.com/user-attachments/assets/f99cff16-16e3-4e1e-afc7-9da69f0e47f4) __place on files__ Use the file upload
-2. Image of your design view, __place on read me__ via screenshot then copy paste
-3. Image of your code, can be done by right clicking and download blocks as image or by screenshot, __place on readme__
-4. Add a quick reflection(2 sentences) about what was difficult __Place on Readme__
-
-
+This was a fun project to code. I got to make a funny Cookie Clicker copy and I got to learn the basics of MIT App Inventor. A challenge I had was trying to design the score counter.
